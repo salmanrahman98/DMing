@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/material.dart';
 import 'package:go_bird/helperfunctions/sharedprefrence.dart';
 import 'package:go_bird/services/auth.dart';
 import 'package:go_bird/services/database.dart';
 import 'package:go_bird/views/chatter.dart';
 import 'package:go_bird/views/signin.dart';
-import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
   @override
