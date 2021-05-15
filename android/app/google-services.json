@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156802835349",
+    "project_id": "go-bird-3f955",
+    "storage_bucket": "go-bird-3f955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156802835349:android:7121b1e89dbe370fef0c9c",
+        "android_client_info": {
+          "package_name": "com.acrux.go_bird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156802835349-q9351oga3pie8d74f4bbrpltksdt04km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acrux.go_bird",
+            "certificate_hash": "c2924f000330fb75d540d976a0bb8ab40ff19fe3"
+          }
+        },
+        {
+          "client_id": "156802835349-ov0hlcs3sujfdr9eo68a0olu5c5ohfpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbL_TheQXs7sxTFREcE3dfqMTAqCFSeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156802835349-ov0hlcs3sujfdr9eo68a0olu5c5ohfpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
